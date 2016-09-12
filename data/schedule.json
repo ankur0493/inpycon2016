@@ -5,7 +5,7 @@
   "events": [{
     "location": "Room 1",
     "time": "10:00 AM - 1:00 PM",
-    "title": " Demystifying the Django REST Framework: Web devleopment",
+    "title": " Demystifying the Django REST Framework: Web development",
     "speaker": "Haris Ibrahim K. V",
     "link": "https://in.pycon.org/cfp/2016/proposals/demystifying-the-django-rest-framework~dBNxd/"
   }, {
@@ -136,7 +136,7 @@
   }, {
     "location": "Room 1",
     "time": "2:45 PM - 3:30 PM",
-    "title": "Real time Sentiment Analysis with Apache Storm and Python",
+    "title": "Real-time Sentiment Analysis with Apache Storm and Python",
     "speaker": "Shaik Asifullah",
     "link": "https://in.pycon.org/cfp/2016/proposals/real-time-sentiment-analysis-with-apache-storm-and-python~epzrb/"
   }, {
